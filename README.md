@@ -1,6 +1,6 @@
 # ROS-Navigation
 
-ROS Nagivation course from Robot Ignite Academy
+ROS Navigation course from Robot Ignite Academy
 
 It covers :- 
 - Setup ROS Navigation Stack on a Robot
